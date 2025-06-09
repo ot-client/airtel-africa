@@ -1,10 +1,1 @@
-application,service,application_env,repo_id,repo_branch,job_template,dockerfile,context,environment_master,registry_name
-airtel-africa,airtel-africa-python-app,dev-zm,docker-demo-python,master,basic-python-ci-v2,Dockerfile,.,dev,bp
-airtel-africa,airtel-africa-python-app,dev-ug,docker-demo-python,master,basic-python-ci-v2,Dockerfile,.,dev,bp
-airtel-africa,airtel-africa-python-app,dev-ke,docker-demo-python,master,basic-python-ci-v2,Dockerfile,.,dev,bp
-airtel-africa,airtel-africa-python-app,qa-zm,docker-demo-python,master,basic-python-ci-v2,Dockerfile,.,qa,bp
-airtel-africa,airtel-africa-python-app,qa-ug,docker-demo-python,main,basic-python-ci-v2,Dockerfile,.,qa,bp
-airtel-africa,airtel-africa-python-app,qa-ke,docker-demo-python,master,basic-python-ci-v2,Dockerfile,.,qa,bp
-airtel-africa,airtel-africa-python-app,prod-zm,docker-demo-python,master,basic-python-ci-v2,Dockerfile,.,prod,bp
-airtel-africa,airtel-africa-python-app,prod-ug,docker-demo-python,master,basic-python-ci-v2,Dockerfile,.,prod,bp
-airtel-africa,airtel-africa-python-app,prod-ke,docker-demo-python,master,basic-python-ci-v2,Dockerfile,.,prod,bp
+CI onboarding placeholder
